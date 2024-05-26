@@ -4,7 +4,7 @@
 
 I'm a passionate Data Analyst with a focus on data analysis and visualization. I specialize in uncovering insights from data to drive informed decision-making. Alongside my data skills, I'm also an attractive web developer who loves building visually stunning and user-friendly web applications.
 
-![Smart Boy GIF](https://media.giphy.com/media/10KfL5sFLnmGJW/giphy.gif)
+![Smart Boy GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJxeXJyODl1dXlncnl3cnppcmQ3cGQ1NGpra2JjZXloZjc4MDBrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
 ### 🔍 What I'm Working On
 
