@@ -26,11 +26,15 @@ I'm a passionate Data Analyst with a focus on data analysis and visualization. I
 
 ![Placeholder GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
+ 📈 [Project 4: Customer purchase Prediction](#) - Explored the Banking and marketing dataset to understand Customer will purchase the product/service or not using Python and Jupyter Notebook.
+
+![Placeholder GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 ### 📫 Let's Connect
 
 📧 Email: prakashr.cse2025@gmail.com
 
-🌐 LinkedIn: [linkedin.com/in/prakash-r](https://linkedin.com/in/prakash-r)
+🌐 LinkedIn: [linkedin.com/in/prakash-r](https://linkedin.com/in/prakaashr2003)
 
 ### 💬 Get in Touch
 
